@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: smriti-hugo-portfolio
+    runtime: static
+    buildCommand: hugo
+    staticPublishPath: ./public

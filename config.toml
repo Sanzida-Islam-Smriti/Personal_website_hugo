@@ -1,0 +1,11 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Sanzida Islam Smriti | AI/ML Engineer"
+theme = "Smriti-portfolio"
+
+[params]
+  author = "Sanzida Islam Smriti"
+  role = "Aspiring AI/ML Engineer"
+  tagline = "Building intelligent systems with Machine Learning, Deep Learning, NLP & LLMs."
+  email = "262-25-034@diu.edu.bd"
+  github = "https://github.com/Sanzida-Islam-Smriti"
